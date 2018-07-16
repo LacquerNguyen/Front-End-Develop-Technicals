@@ -1,11 +1,4 @@
-### I. Hello World
----
-```javascript
-ReactDOM.render(
-  <h1>Hello World</h1>,
-  document.getElementById('demo1')
-);
-```
+
 
 ### II. Introducing JSX
 ---
